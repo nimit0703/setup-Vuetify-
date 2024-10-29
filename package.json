@@ -45,7 +45,7 @@
     "vite-plugin-vue-devtools": "^7.5.4",
     "vite-plugin-vuetify": "^2.0.3",
     "vitest": "^2.1.4",
-    "vue-jest": "^3.0.7",
+    "vue-jest": "^4.0.1",
     "vue-router": "^4.4.0",
     "vue-tsc": "^2.0.26"
   }
